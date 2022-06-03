@@ -1,0 +1,11 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/속성 제거" />
+    <ignoreAction name="XML/속성을 하위 태그로 변환" />
+    <ignoreAction name="XML/태그 속성 재정렬" />
+    <ignoreAction name="기타/요소를 여러 줄에 입력" />
+    <ignoreAction name="XML/빈 태그 확장" />
+    <ignoreAction name="JavaScript/지역 변수 삽입" />
+    <ignoreAction name="언어 삽입/삽입된 조각 편집" />
+  </component>
+</application>
